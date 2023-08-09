@@ -62,9 +62,9 @@ section.imagem{
     background-attachment: fixed;
 }
 section.imagem >p{
-    background-color: rgb(24, 22, 22);
+    background-color: rgba(24, 22, 22, 0.315);
    display: inline-block;
-   padding: 5px;
+   padding: 5px;    
    
 
 }
